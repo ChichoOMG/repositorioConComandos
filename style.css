@@ -1,0 +1,9 @@
+#proyecto-1{
+    background-image: url("images/copia_google.png");
+}
+
+.proyecto{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
